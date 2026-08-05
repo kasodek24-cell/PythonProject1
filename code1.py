@@ -6,4 +6,8 @@ print ("Test22")
 
 
 print("local")
+
 print("local1")
+
+print("local1")
+
