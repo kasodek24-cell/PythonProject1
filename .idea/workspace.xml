@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e8e8163-3b83-493e-a9df-f690d6e9b712" name="Changes" comment="commit with new code3 file">
-      <change afterPath="$PROJECT_DIR$/code33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ersLENOVOPycharmProjectsNewProject3PythonProject1code3.py CLEAR" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "test23",
     "last_opened_file_path": "C:/Users/LENOVO/PycharmProjects/NewProject3/PythonProject1"
   }
 }]]></component>
