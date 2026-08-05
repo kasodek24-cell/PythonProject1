@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e8e8163-3b83-493e-a9df-f690d6e9b712" name="Changes" comment="commit with new code3 file">
-      <change afterPath="$PROJECT_DIR$/test2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2/loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e8e8163-3b83-493e-a9df-f690d6e9b712" name="Changes" comment="commit with code1 print(&quot;local&quot;)">
+      <change beforePath="$PROJECT_DIR$/code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="amitbranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,6 +77,16 @@
   "selectedUrlAndAccountId": {
     "url": "https://github.com/kasodek24-cell/PythonProject1.git",
     "accountId": "999ebea7-b513-46b7-ae3f-6bb3cce48653"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "kasodek24-cell",
+    "repository": "PythonProject1"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -94,7 +102,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "amitbranch"
+    "git-widget-placeholder": "#4 on Merging amitbranch"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -136,7 +144,23 @@
       <option name="project" value="LOCAL" />
       <updated>1785912380656</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit with new package pages">
+      <option name="closed" value="true" />
+      <created>1785912730169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785912730169</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit with code1 print(&quot;local&quot;)">
+      <option name="closed" value="true" />
+      <created>1785913264044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1785913264044</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +177,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit with new code2 file" />
     <MESSAGE value="commit with new code3 file" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit with new code3 file" />
+    <MESSAGE value="commit with new package pages" />
+    <MESSAGE value="commit with code1 print(&quot;local&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit with code1 print(&quot;local&quot;)" />
   </component>
 </project>
