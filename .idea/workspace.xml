@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e8e8163-3b83-493e-a9df-f690d6e9b712" name="Changes" comment="commit with new code3 file">
-      <change afterPath="$PROJECT_DIR$/test2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2/loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ersLENOVOPycharmProjectsNewProject3PythonProject1code3.py CLEAR" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,18 +68,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kasodek24-cell"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kasodek24-cell&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kasodek24-cell/PythonProject1.git",
-    "accountId": "999ebea7-b513-46b7-ae3f-6bb3cce48653"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kasodek24-cell/PythonProject1.git&quot;,
+    &quot;accountId&quot;: &quot;999ebea7-b513-46b7-ae3f-6bb3cce48653&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -94,7 +93,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "amitbranch"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/LENOVO/PycharmProjects/NewProject3/PythonProject1"
   }
 }]]></component>
   <component name="SharedIndexes">
